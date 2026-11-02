@@ -9,3 +9,9 @@ exception: 执行异常处理
 future: 阻塞式获取执行结果  
 
 completable: 回调响应式获取执行结果
+
+## 构建
+
+```
+mvn clean package
+```
